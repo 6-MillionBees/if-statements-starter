@@ -27,6 +27,7 @@ output:
 ```
 4. What do you notice about the code that immediately follows an if statement?  How is that code formatted or arranged?
 
+It's indented, like someone pressed tab in front of it.
 
 ```python
 number = int(input("Enter a number: "))
@@ -37,9 +38,10 @@ else:
     print(number, "is odd.")
 ```
 
-4. What does the `%` operator do in the conditional test shown above?
+4. What does the module operator do in the conditional test shown above?
 
-
+It shows if the number is evenly divisible by 2.
 
 5. How does the code determine if a number is even or odd?
 
+If a number is evenly divisible by 2 then it's even and if a number isn't evenly divisible by 2 then it's odd.
