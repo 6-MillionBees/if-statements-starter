@@ -27,7 +27,7 @@ output:
 
 
 ```
-4. What do you notice about the code that immediately follows an if statement?  How is that code formatted or arranged?
+3. What do you notice about the code that immediately follows an if statement?  How is that code formatted or arranged?
 
 It's indented, like someone pressed tab in front of it.
 
