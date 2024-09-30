@@ -16,7 +16,7 @@ Answer these questions about the code.  Be specific in your answers!
 
 output:
 ```python
-You can buy that tool for less at Home Depot!
+'You can buy that tool for less at Home Depot!'
 ```
 2. Change the item price to 39.50.  Now what would the output or look like?
 
